@@ -1,0 +1,9 @@
+server/
+server/data/
+server/api.js
+server/data/*
+*.log
+node_modules/
+dist/
+/.env
+/.env.*
